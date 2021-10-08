@@ -1,5 +1,5 @@
 ---
-id: doc2
+id: doc2a
 title: document number 2
 ---
 # New
