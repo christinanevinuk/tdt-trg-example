@@ -1,8 +1,8 @@
 ---
-id: introtrg
-title: Introduction to the TRG
-sidebar_label: TRG introduction
-weight: 100
+id: testpage
+title: test page to the TRG
+sidebar_label: test page TRG
+weight: 150
 ---
 # Introduction
 The Technical Reference Guide
