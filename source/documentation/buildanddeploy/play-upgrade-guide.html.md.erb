@@ -1,0 +1,17 @@
+---
+id: play-upgrade-guide
+title: Play Upgrade Guide
+sidebar_label: Play upgrade guide
+weight: 300
+---
+# Guide to Play Upgrade
+
+##Play 2.7 Migration
+In addition to upgrading from Play 2.5 to Play 2.6, PlatOps have also released a bootstrap version for Play 2.7. Please note that we recommend using this with Scala 2.12, as some core libraries are not available for Scala 2.11 and Play 2.7 (e.g. reactivemongo libraries).
+
+We have found the following upgrade sequence works well:
+
+1. Play 2.5 -> Play 2.6
+2. Scala 2.11 -> Scala 2.12
+3. sbt 0.13 -> sbt 1.3
+4. Play 2.6 -> Play 2.7
